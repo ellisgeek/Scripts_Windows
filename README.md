@@ -1,2 +1,2 @@
-# Powershell
-A collection of powershell scripts written to ease daily tasks.
+# Windows Scripts
+A collection of Powershell and BATCH scripts written to ease daily tasks.

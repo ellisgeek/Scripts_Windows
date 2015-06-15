@@ -1,0 +1,557 @@
+﻿<File version="2">
+  <FileID>06c6f556-355f-4bc6-a23b-a4ae9862b381</FileID>
+  <LastExport>130766155845798334</LastExport>
+  <Preview>iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAYAAAD0eNT6AAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAACcrSURBVHhe7d1XdFR3gufxPj37Mruv27sP+7Lv
+e3rOzu7TnumdnTl79nRPt0M7j3EbsLENJtgm55xzzlFksAQCRJBACOWsUkmlnHPOEmCw+e3/f0sC
+XSwwtBkscb+fM99jJFWVShqk+7ulQv0rAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAADwi9n3N3/zN0l/99vfJs2aNTtpwYLFSfPnLyAiIqIR0aKkxYuXJH00alTSv//bv00y
+x3XbT/v1r3/tf+vPb+lk6CVlFdWqoLpd+ZVtRERENBKqalNBVbuSfIVavGSZfvOb/6j+Q/zT/fa3
+/y3pxNmLyiprU4yvTNGZJbpJREREI6bojBIlBmqVWVijsWM/ebYBMHvW7CRfUZ1isysUawYAERER
+jbxuZZXJV9aq0POXnm0ALF60JKmsods5+4/LLiciIhrxxfsrfnZxthFye7ZYX7n8FW06d+Hysw2A
+BQsWJZXWdzmPAPz4HVT+RENdh4iI6JcrMbdKMZmlik4vNpX8lRX331alc3u3sn7+7dmD9KPbK3Ne
+N/Rln6WB26t6+HHHmeN4rhkAoecjnm8AxJkDekLOoMyN2hu2f3b+m9doanZKzG9RYqDOfXkiIqJf
+uKRAtSJu5ej4+TidvBBvSvirOhEer9OXkpyD7NWEwM++PXvdUxcTnQP/tcQ8nXgB9++U+a8dAvZj
+th+7PTHPrWx/vgFgfwSQkFvt3EiwGiX4ihSXnKH41GzFpfiUEHtRcdcP61bUUcVEHld8YpxzuUfX
+IXpFMoM3Ka9O2eVtSs2rdgbwkJdzsm+rUUp+7WOvD5ZoyihtU3p+tZILm5VV0vgTtxfMniWklbQp
+UN2pnKpO+Uobnftlby/43xpllrUqvaD2R7dnL5Ns7k+yc98fvZ7IC9mvxaPn4hSbXmS+VswJbI45
+i/8rSiuoUeiVFF2OC+ikOXDHpBaY2x90e/5ypebXKL2oXumFtrpg5uU0+3U56LZs9nvAuWtpumTG
+yamIZEUn5yl58O2ZHt1enfneU6O0p9yevX/hUekKjcxQmrmM/djt17v9nvF8A6CxRwnmG0qyeYdO
++ebsPjNPiVkFSilqUVxmkQLhb6o17Us1pU1W4fn/peuhS8w3tHZzefuNZtB1iUZ4KQUNSknP0PIt
+OxSeZr4gzReh83rnoGpHr71cbf/LJvNFbB9BSzZfvM5tmNc7bzMvp+VX6cCh3ToRX6Woq6HafDJS
+KYVNwcv1Zy87cNsDpZe06uyxHRrzxdf65POJWnHkltJKW5RiL19gvkHkFWnjyrXadzVXGSUND29n
+4PoJ/gpn1NvLJ/W/7fH38fjLRK9CqQV1OnEh0Ry3Sp1nxkdn2P8+f/ZR8PDrGbocH9CZyym6ZR+u
+f3ibJbrlqzBDI1qrNx/S2m0hWtffqk2HdOTbKPP28v7bCl7enqFfjM5SRGyuzl5N0820Qt3sf5tz
+e1nlOn4hRht3HtO67cd05kqyNu0+pXVbj+jw2UjdHHjf/T82sA/3R8T4dO56ptKLg98D7PemvJqu
+5xsA5Y295srBbxC21MIGJfoKFZ/hV3x2qW6l+RW4PFpqOSY1blRD9D/r4olFSi3uNJeve3g9oleh
+NHPGnpZwTf/3z/+i/bdqlVfdYc7c683XSJ2ySpvN2m5Upjno2sWdXtqh6IvH9eGMbYoxB3b7hWgf
+NbCPIGSVt8pfVKUZk97Uqohqhe+fq1Hztiq9rNMs/f73VWTGRqBKyWZ0+MxtD9yH7MpOrZv7gT5c
+cFAXwo7qT//ypjZcLlZ+TacZJPbAXalrMWmKyqhQZnmb8wiB/Rq2/5w3r6RCKxYv1NwjCcquaDH3
+ucUMEXOf8uvNn5vMN8gGc7kW534O/ronehVKM2fjpy4mKcF5Ynvw5+LB7M/LzSg2Azp43OrPvGxf
+b98++PL2ti7eyNTVhDydvZLqDAo79B9exvx53ZaDKi8tV1Njk2qqa9TY0KjqqmqtN6+PybRP9Ht0
++RRzQhBx0+cMitBr6WZQFCnWvE974Lcl5tZoxfr9iotNVG5uvmbMXavklExlpvu0ZOUOxWTZZ/rb
+J/oFn+1vHwm8HJOt8zd85iSg0bm/9uQjv7b7+QZAZVOf0uxZhfMwRr0yis0ZijlzSZw2Rknv/1ER
+M75S2oX3pLzXpNy/V/XZf6ezRxabbyLd5vIND69H9CqUWdauzOQbevOjD3QqrVp7187Rl1Pn6t33
+3tH0XVeVW1yqFQtmadToT7R493ktm/aO/utvf6cJ268oPi5Kk8aP18ejx2r6tgsKVLVo0YyPtPFa
+jS6HLNNny/aYYdClDPN+ss1AiPj2kEZ/OkUffPiF1p5Jlr+i1bkPOWYAbFr2hRYcS1Hrd/e09KsP
+NHNHmLau+Mrc9gJt2HtOa3Zs0KWcZoVsW6wJX8/Rhx/8qyZvuqiYmPP65//59/rv/+9THU2oVmxk
+qMZ+PkEffThZW6+UKD4mVFMnf64xY1frZGKZssvMcBn08RON5DKLG52f3SfaR8H8VaZKJ3uQv5YQ
+0KEzUeaM+rqryMQ8JeZUP7ysLa2gzjljj0wqUKg5Y483B93gZext2ifeVWnrrmPqbO/Q7n0ntO9I
+mLbvPqrOjg5t33M8eFAfdHl7e3YAXEvIV1hkumKdRwXs7QR/dp9kBsDl+Byt3nRAgUCB2s3t1tTU
+af3WgwqNTDUnFbXO5ex9s/+1B/wrsX5duJltvoabnY/djp+i+l6FPc8AqGq57SyIzP7s2UFSvlku
+495R/cRP9O2of9WVkDeVuOs/K2H3b3R++X9Q2PGV5uyiR5nmjGLgekSvQj5z8PWl3dSbH3+oUF+N
+5oz6J41ddUWJMWf07gczFXLmsF77w0RdNmf59sdlUeeP6M2Ja3XLnNln+fN1ITZFZ0K26h9f/0Tn
+suq0Yu5obY6q05Vjy/X58n3KrupxnguQVdqq5AyfzsWma++6Wfrdh/MVZ24j23xN5dX0aOuycfpi
+zRldDDuqD94Zo6Mxcfr0T/9Hy8MKlRfI0hcTRulUdpvWTPyT3p4eorSM63rn9c90wVdh3udMTT+c
+qvz8JP3l9Q+06FiMjmxdpD+MmqljZ/fq9dc+0pmMFufgP9TngGik5jMHw9MRKUoyB9fEXPscGfvQ
+uPlvoE4btx/VpUuRunrtZrCrN3XhwlVt2nHMfC3bRwJqHpZR1KhL5oB9PaXIHLAzlGDO4p3bGbiM
+ub1NO0LM12JAs+ev1YqNBzV9zmoFcgPasjNEcX77nIRHl08vatDlW35FJhc4D9vbRxSc59uZM3mb
+/VGdHQSLV+1W+MWr6u3u1K3YBM1dukU30oudRyvsiLHZH+/Zg/3VuFznOQU5la3Ox26P4yVNtxUW
+/qwDYP6ipOrWO86B3D48aPOZM5P0kjqdeusPOvFf/pP2vvOWzsZlaVdYjHacjdGFK9eVmJxs3qF9
+KLH54fWIXoWyq7qUnR6jN0d/qLMZVVo9c6x2XG9UZUmSPnlnoo4mFmvz3LF646P5OpXYoNTo03rn
+m23KbO7VtfOhGv/5RE2dOVX/8Np4c/0arVowVpuvN+jacTMAVuyTv7rXfJNqUW5NvU7s3aMxn0/S
+N1M+0/8etUgxZgDkljeroOGOdi4brX94Y4wmTJqvPVcLFShK0ZQJn+tc4L5KCnya9NWnOuNr0fZF
+n2l1aJHq6vM14Z3PdCS2WBuWLdCCsAJlXN6jv/sfv9eXcxdp4tczNG/7aZ09tUeT5m1WWu19+cuH
+/hwQjdSyy1ucn9kn5diz/v4BYM6e48zZ+Kr1u1VZXqq62mrV1lSpvq5apcVFWrlut3NAf3hwNw0M
+gBupxQqLCg6AZHNAt2fqtuS8eq3asFdZGRnKNMXHxSs9LV052T6tXr/HHMzNZQZdPqN/AESlFAYH
+QFaZUgrs84vsj/RqzcG72XkOwfHjZ5SVmaUFi9crzgyAyxFXtHTNrv4fXQQv61y+uDE4AGJzlFvV
+5nzs9jhe2nzn2QeA/R8SqGm7aw765mygP39luzIKKhQVdk7nDhxW5PlzWhdRo6VXpVHb2hQW7Zcv
+UGTOYuqUXdH68HpEr0I55uw7JyNGr334nr7NrNbqqaO0+WqdygrjNOq1T7Q/pkTFnd/r+NopemPC
+WkVfO6fXv9iswt5WTXvrfc0+mq/60nj9/o9/0amMWnM2/pE232hU5PGlGrdsj3Jrb8tf1aOC4iS9
++4/v65DvrrKu7tXv3pqmmIpuBcyaL2y4rS3LPtP8Eylq7JOKG+8o2x+nyePG6Kz/nkoLs/TlpNE6
+42/Ttvmjtfx0vmpqc/XpG3/RkbhSrZk1TTNPBlSQHqE3/viFLldJ9V3fma/tTl37dr2+mL5OKTU/
+KKdi6M8B0Ugtp7LN+Zl9SsA+xyX43B37SJ197s7+ExHOwX7txn1as2m/1pj/rly7SwdPXzVn6PZ5
+NPaAHCzLHJDtz9jtE+7OR2UqyXnYvf/2TOnFTTpkrrfK3N6GrYe0cdth0yHz8h7n/dj3Z8/aBy6f
+aW7vijlY20ERfiNLiWZQ2MvYM/m0QnMyXdqikG+jtGHLAXPfDuhY+C2t3x5ibvuA9h27YC7b5FzO
+/rg+1WRPIiLjA7psRkBeTYfzsdvjeHnrd2YAPOMvArIDoLbdfmNodz5xttzqTqXlliijsEKZxZXK
+yMnVrO2xGrUiW7//JlZnLyUoM9uv7LJG5VQ9uh7Rq1CgtleB7GSNnTJJF3PqtG3p19ob3aDy4lR9
+PX6RDoWe0bgxkzR2/ERtPe9TfqE58L79hr7cdVFn9m3RW6O+1MSvvtEbo+eY6zdq65pvtC+uRdFh
+WzVj60kF6u6Yxd6pouoGbV08Xe99/pUmfvml3pq8SQnVPcqrbleROeDv3zJby08mqbSxR4HqbuXk
+pWnerBm6EPjOnLUENHfhdPPnDh1YN12bwotVXVeo6eOm6kR6sy4d3KB/enOsjqU1KHTnYr329hiN
+GTdBa8/4FB8VolnL9yq99nsFzJnDUJ8DopFaoLpD315NMyex5sBaZJ+0aw6c/WWWtiq1sOlH2dcP
+vpwtp6JdV2NzdTOjVOHXs5RmzrrTB1+m/3rPent+c3uR8XmKTivRhWifUnKrzeVazJl8s5MdFPZJ
+vOnmz/b12ZUdwdvpf31GSZPz/DwnMybsb/y7kVSgK2YEFNR1OR+731TZdv/5BkBdxz1zIO8w35Ta
+ney/I8wuNUsjO19p/kJTgRIy8nQrxa/49FylmNen5xQ7Dzvkmk/2wPWIXoXsNxB7YMwub3YGrt/+
+1wzk4OtazGValZRZoJjsKuXV96mgvlt+M5Rjc2rNnzuVmFWo+EC9GRIdzvX8FcHr51aaL+qKVuf2
+nfdT0638mmbFZuQrpbjFvGwu77z/4H2wZ+f2i9y5P851zBe4PcMxX6sBc7ng/bOXM98M7P0z17NP
+BvKbcVFQ265kf7FSStpV2txrvmYLdTO9SFmVnea69lG7Vudr197O4x8/0Uguv7ZLoVfTlZxTqRz7
+L3FKzdeEKbv/v35z5vyjBr+9vzxzML1oztTjsisVbg7Yib7yn317ETeznScHXozxK84MC3t72ebA
+Hix4OXs9J/u6x18eVMB8b7hin1OQVKjChp6HH39V+/fPNwDqO++bs44uU+fD8mu6zKroNfU4/7XP
+LCxqCGZfzq+1ZyqPLk/0SmX+/heav/v2n90VmL/r9r/2a6Sgzh60u1VoDvz2ayL4enMZ+/XR/7Yi
+8zZ73YJa+/Kj69u32dcNfj/268h1+cfeVmC+mT28vPM1Oei+DNyuvZx5W/D+9b/duR/ma/Xhn4P3
+17ncEPeD6FXJfo2mBGoVei1D52yRmX9VdkRcjg04X3fpBQ0KM7dlG+qyz5K9vYiYXDPUO5VR2Bh8
+/c+8vUs3/eYEoM0ZPQMff03Hg+cbAA1d35sbMN98zI3YAuYDJiIiGonl2yFsyrND1wzkvzZ7smsH
+sx3Zw/H28u3t2duwH3P/8dv8n8496wCYN29+UqMZAM7ZhLkhexZT22xuhIiIaCTW0qW6F5C9neF8
+ewOVNdiDf/CRvTozAJ75EYDHB0CxGQBdXZ3qJiIiomGd/X0BdlQM/GjvZw+Ajs5OdRIREdGwzo6A
+GgYAERGRt2IAEBEReTAGABERkQd7aQOgy9TX1xusl+gFZ/5e9fb2uP7O9fX16e7du7pz5w4Rkeey
+3//s98GOjg7X98aBXsoA6OrqUnt7u3Jy8+XLzlW2P0D0Qsvy5aiouFTd3V3Bv9jd3crPz1d8fLxi
+Y2MVFxdHROSpYmJilJOT44yAx4/LzvfJlzEA7DfjuroGJadkqL3DvtxrLtf1o7q6zRlcV7fa2tr/
+zWvvsP9ksWvIt9HIq7GpWUkp6c7/T+0/RbXr9+TJk5o/f7527Nihbdu2ERF5qo0bNyozM1Pff//9
+kI8CvLQBUFtXb87QytTa2qozp08rIuKSKcLVafP6goICvQwP7t9Wd9/9/pcw4j14oExfjvP3bWAA
+HDlyRBcuXHDebBcwEZHXst8Tb9++/csPgJLSCuXl5en69evq7bU/s3Xn8/mctz1NW3Wpyup7+1+y
+7ikrza+OO/0vPqPqzMtasyFEmTmletD/OqlHqal5utv/EkaO+/fvKyPL7/x9GxgAISEhOn/+vO7d
+u/ejv5NERK969qDf1tY2PAZAcUm5c4afnJzc/23brbS01PmZRdB3KvKn6vShAzofHdDt+x2KiwjV
+jp37FJtVoozYqwo5clCJmdH67O33dCiuWt91lDmPLiTmVqmjvUaXz4bp+o2bCgs7qesZpf23G1Sd
+cVkrV+9VfFqRmqtzderUcd2IPKr3XhuliEBr/6UwUjAAiIjcDcsBkJSU1P9t2624uHjQAKjXsgkT
+tG77YS1duEzrNq3TjEkztXDpUs2bNV3jJy/UmbP7tXDOXI375CuFJ2Xr8IIv9OG4TzTq44maP2uO
+Zi7Zqg1fTdRbH7yvJevPqeVe/00bNb4oLV+wTJsPndLOGZP07tjxWrtkmcaM+0a3ijv6L4WRggFA
+RORu5A6AH6q1ecU+5+H4wksH9OmnM3UqKku+uHDNm7lQByNKzFvatWvlci3ffl4NNT6N//3b2hUa
+pn2bt2nRwtW64mtUVWqE9m5bpy1bDqvq3qMH+2t8kVo2f5k27j2t6LAQ7d6+XQe2rtPKvRf1nD9N
+wDDAACAicjeCHwFo0rqvvtK8les0d80mHTx+RMfPxij+6gnNnrFYB8ID0oNybVu/XnMmz9LBszd1
+6dgGbdkfokM7D2vL5h26kFCitNA9mjF7nr6etsIMgP6bNjpL4swAWKpNO0N01Bz4Z8+do8WLZ2vy
+p7MUFlfWfymMFAwAIiJ3w24A2CcBpqSk9H/bdisvL1d0dHTwhR9qtWrufO04flGZpS16cL9Xza1d
+6ulsU01NnVo6bpsBcFfNLa2qzs9Rdn69HvzQoZirV5RVWq/enk6193wv3W1WzPXryq3pVH0gVeHh
+4U5hYZHKr6hVU1uvelsrnCcf1vTcUX2OTznFjcH7gBGDAUBE5G5YDYCi4nJVVlZq//79unjxoi5d
+uuTq8OHDjx4deNCr/ECpBp20/2xFCVe0a9cupwNHI2U+VrwiGABERO6G1QCwvwnQsi/b3wz4ePYO
+/vDDD85lgOfBACAicjcsBwDwojEAiIjcMQDgCQwAIiJ3DAB4AgOAiMgdAwCewAAgInLHAIAnMACI
+iNwxAOAJDAAiIncMAHgCA4CIyB0DAJ7AACAicscAgCcwAIiI3DEA4AkMACIidwwAeAIDgIjIHQMA
+nsAAICJyxwCAJzAAiIjcMQDgCQwAIiJ3DAB4AgOAiMgdAwCewAAgInLHAIAnMACIiNwxAOAJDAAi
+IncMAHgCA4CIyB0DAJ7AACAicscAgCcwAIiI3DEA4AkMACIidwwAeAIDgIjIHQMAnsAAICJyxwCA
+JzAAiIjcMQDgCQwAIiJ3DAB4AgOAiMgdAwCewAAgInLHAIAnMACIiNwxAOAJDAAiIncMAHgCA4CI
+yB0DAJ7AACAicscAgCcwAIiI3DEA4AkMACIidwwAeAIDgIjIHQMAnsAAICJyxwCAJzAAiIjcMQDg
+CQwAIiJ3DAB4AgOAiMgdAwCewAAgInLHAIAnMACIiNwxAOAJDAAiIncMAHgCA4CIyB0DAJ7AACAi
+cscAgCcwAIiI3DEA4AkMACIidwwAeAIDgIjIHQMAnsAAICJyxwCAJzAAiIjcMQDgCQwAIiJ3DAB4
+AgOAiMgdAwCewAAgInLHAIAnMACIiNwxAOAJDAAiIncMAHgCA4CIyB0DAJ7AACAicscAgCcwAIiI
+3DEA4AkMACIidwwAeAIDgIjIHQMAnsAAICJyxwCAJzAAiIjcMQDgCQwAIiJ3DAB4AgOAiMgdAwCe
+wAAgInLHAIAnMACIiNwxAOAJDAAiIncMAHgCA4CIyB0DAJ7AACAicscAgCcwAIiI3DEA4AkMACIi
+dwwAeAIDgIjIHQMAnsAAICJyxwCAJzAAiIjcMQDgCQwAIiJ3DAB4AgOAiMgdAwCewAAgInLHAIAn
+MACIiNwxAOAJDAAiIncMAHgCA4CIyB0DAJ7AACAicscAgCcwAIiI3DEA4AkMACIidwwAeAIDgIjI
+HQMAnsAAICJyxwCAJzAAiIjcMQDgCQwAIiJ3DAB4AgOAiMgdAwCewAAgInLHAIAnMACIiNwxAOAJ
+DAAiIncMAHgCA4CIyB0DAJ7AACAicscAgCcwAIiI3DEA4AkMACIidwwAeAIDgIjIHQMAnsAAICJy
+xwCAJzAAiIjcMQDgCQwAIiJ3DAB4AgOAiMgdAwCewAAgInLHAIAnMACIiNwxAOAJDAAiIncMAHgC
+A4CIyB0DAJ7AACAicscAgCcwAIiI3DEA4AkMACIidwwAeAIDgIjIHQMAnsAAICJyxwCAJzAAiIjc
+MQDgCQwAIiJ3DAB4AgOAiMgdAwCewAAgInLHAIAnMACIiNwxAOAJDAAiIncMAHgCA4CIyB0DAJ7A
+ACAicscAgCcwAIiI3DEA4AkMACIidwwAeAIDgIjIHQMAnsAAICJyxwCAJzAAiIjcMQDgCQwAIiJ3
+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</Preview>
+  <Object type="System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="printerinstall" children="Controls">
+    <Property name="ClientSize">837, 326</Property>
+    <Property name="Name">printerinstall</Property>
+    <Property name="Text">Install a Printer</Property>
+    <Event name="Load">printerinstall_load</Event>
+    <Object type="System.Windows.Forms.CheckedListBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="printers_list" children="Controls">
+      <Property name="CheckOnClick">True</Property>
+      <Property name="FormattingEnabled">True</Property>
+      <Property name="Location">12, 12</Property>
+      <Property name="Name">printers_list</Property>
+      <Property name="Size">259, 274</Property>
+      <Property name="TabIndex">5</Property>
+    </Object>
+    <Object type="System.Windows.Forms.RichTextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="output" children="Controls">
+      <Property name="Location">277, 12</Property>
+      <Property name="Name">output</Property>
+      <Property name="Size">548, 274</Property>
+      <Property name="TabIndex">4</Property>
+      <Property name="Text">
+      </Property>
+    </Object>
+    <Object type="System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="buttonCancel" children="Controls">
+      <Property name="Location">93, 292</Property>
+      <Property name="Name">buttonCancel</Property>
+      <Property name="Size">75, 23</Property>
+      <Property name="TabIndex">2</Property>
+      <Property name="Text">Cancel</Property>
+      <Property name="UseVisualStyleBackColor">True</Property>
+      <Event name="Click">buttonCancel_Click</Event>
+    </Object>
+    <Object type="System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="buttonInstall" children="Controls">
+      <Property name="Location">12, 292</Property>
+      <Property name="Name">buttonInstall</Property>
+      <Property name="Size">75, 23</Property>
+      <Property name="TabIndex">1</Property>
+      <Property name="Text">Install</Property>
+      <Property name="UseVisualStyleBackColor">True</Property>
+      <Event name="Click">buttonInstall_Click</Event>
+    </Object>
+  </Object>
+  <Code><![CDATA[#region About
+<#
+    .SYNOPSIS
+        Simplifies the installation of printers and allows multiple printers to be installed quickly.
+    .DESCRIPTION
+        TODO: Write Description
+    .LINK 
+    .NOTE
+        ==================================== About ====================================
+        ===============================================================================
+        	Author: Elliott Saille <me@esaille.me>
+        	Date: May 19, 2015
+        =================================== LICENSE ===================================
+        ===============================================================================
+            This Source Code Form is subject to the terms of the Mozilla Public License,
+            v. 2.0. If a copy of the MPL was not distributed with this file, You can
+            obtain one at http://mozilla.org/MPL/2.0/.
+        ===============================================================================
+#>
+#Requires -Version 2.0
+#endregion
+
+#region Elevate
+function Elevate {
+    <#
+        .SYNOPSIS
+            Automatically (re)launch Powershell script as Administrator including parameters
+        .PARAMETER ScriptPath
+            Path to the script that should be launched. Defaults to the current script
+        .PARAMETER Parameters
+            A Hashtable of parameters that should be passed to the elevated script, where the "key" is the
+            parameter name and the "value" is the parameter value
+        .PARAMETER Exit
+            End the current powershell session after launching the script
+        .EXAMPLE
+            Relaunch the current script as Administrator passing along any parameters passed to the
+            current instance and then end the current session.
+            
+            Elevate -Parameters $PSBoundParameters -Exit
+        .LINK https://gist.github.com/ellisgeek/2a0821ebf9bb983e04dc
+        .NOTE
+            ==================================== About ====================================
+            ===============================================================================
+            	Author: Elliott Saille <me@esaille.me>
+            	Date: May 20, 2015
+            =================================== LICENSE ===================================
+            ===============================================================================
+                This Source Code Form is subject to the terms of the Mozilla Public License,
+                v. 2.0. If a copy of the MPL was not distributed with this file, You can
+                obtain one at http://mozilla.org/MPL/2.0/.
+            ===============================================================================
+    #>
+    param
+    (
+        [parameter(Position = 0)]
+        [string]$ScriptPath = $script:MyInvocation.MyCommand.Path,
+        [parameter(Position = 1)]
+        [hashtable]$Parameters,
+        [switch]$Exit
+)
+    # This will hold our argument string that gets passed to the new powershell instance.
+    $arg = ""
+    # Only iterate over the params object if we need to
+    if (-not [string]::IsNullOrEmpty($Parameters)) {
+        # Iterate over the parameters the parent script got and turn them into a string of arguments
+        # to pass to the new session
+        Foreach ($key in $Parameters.Keys) {
+            $value = $Parameters[$key]
+            $arg += "-$key $value"
+        }
+    }
+    # Provide Feedback
+    Write-Host("Relaunching script as Administrator!")
+    # Only run if we aren't running as Administrator
+    If (-NOT ([Security.Principal.WindowsPrincipal] [Security.Principal.WindowsIdentity]::GetCurrent()).IsInRole(`
+    [Security.Principal.WindowsBuiltInRole] "Administrator")) {
+        Write-Verbose("Restarting script with Administrator rights")
+        # Run script in a new session as Administrator.
+        Start-Process -FilePath powershell.exe -ArgumentList @("-File `"$ScriptPath`" $arg") `
+                      -Verb runas -WindowStyle 'Hidden' # Uncomment this line if you are using
+                                                        # .NET Forms to hide the Powershell
+                                                        # window that is spawned by the new
+                                                        # session
+        If ($Exit) {
+            Write-Verbose("Ending current Session")
+            # Return non zero exit code that can be used to check if script was relaunched
+            $host.SetShouldExit(42)
+            # End current session and let the new one take over
+            Exit
+        }
+    }
+}
+# Elevate this script, passing any arguments to the new session
+Elevate -Parameters $PSBoundParameters -Exit
+#endregion
+
+#region Program Helper Functions
+Import-Module PrintManagement
+Import-Module AppLocker
+Import-Module Appx
+Import-Module \\ltc-cleveland\menu\Powershell\PSExcel
+
+# The Following 3 Functions were written by Kris Powell and can be found at:
+# http://www.adminarsenal.com/admin-arsenal-blog/how-to-add-printers-with-powershell
+Function CreatePrinterPort {
+    param ($PrinterIP, $PrinterPort, $PrinterPortName, $ComputerName)
+    $wmi = [wmiclass]"\\$ComputerName\root\cimv2:win32_tcpipPrinterPort"
+    $wmi.psbase.scope.options.enablePrivileges = $true
+    $Port = $wmi.createInstance()
+    $Port.name = $PrinterPortName
+    $Port.hostAddress = $PrinterIP
+    $Port.portNumber = $PrinterPort
+    $Port.SNMPEnabled = $false
+    $Port.Protocol = 1
+    $Port.put()
+}
+
+Function InstallPrinterDriver {
+    Param ($DriverName, $DriverPath, $DriverInf, $ComputerName)
+    $wmi = [wmiclass]"\\$ComputerName\Root\cimv2:Win32_PrinterDriver"
+    $wmi.psbase.scope.options.enablePrivileges = $true
+    $wmi.psbase.Scope.Options.Impersonation = `
+    [System.Management.ImpersonationLevel]::Impersonate
+    $Driver = $wmi.CreateInstance()
+    $Driver.Name = $DriverName
+    $Driver.DriverPath = $DriverPath
+    $Driver.InfName = $DriverInf
+    $wmi.AddPrinterDriver($Driver)
+    $wmi.Put()
+}
+
+Function CreatePrinter {
+    param ($PrinterCaption, $PrinterPortName, $DriverName, $ComputerName)
+    $wmi = ([WMIClass]"\\$ComputerName\Root\cimv2:Win32_Printer")
+    $Printer = $wmi.CreateInstance()
+    $Printer.Caption = $PrinterCaption
+    $Printer.DriverName = $DriverName
+    $Printer.PortName = $PrinterPortName
+    $Printer.DeviceID = $PrinterCaption
+    $Printer.Put()
+}
+#endregion
+
+#region Control Helper Functions
+function Load-ListBox {
+<#
+	.SYNOPSIS
+		This functions helps you load items into a ListBox or CheckedListBox.
+
+	.DESCRIPTION
+		Use this function to dynamically load items into the ListBox control.
+
+	.PARAMETER  ListBox
+		The ListBox control you want to add items to.
+
+	.PARAMETER  Items
+		The object or objects you wish to load into the ListBox's Items collection.
+
+	.PARAMETER  DisplayMember
+		Indicates the property to display for the items in this control.
+	
+	.PARAMETER  Append
+		Adds the item(s) to the ListBox without clearing the Items collection.
+	
+	.EXAMPLE
+		Load-ListBox $ListBox1 "Red", "White", "Blue"
+	
+	.EXAMPLE
+		Load-ListBox $listBox1 "Red" -Append
+		Load-ListBox $listBox1 "White" -Append
+		Load-ListBox $listBox1 "Blue" -Append
+	
+	.EXAMPLE
+		Load-ListBox $listBox1 (Get-Process) "ProcessName"
+#>
+    Param (
+        [ValidateNotNull()]
+        [Parameter(Mandatory = $true)]
+        [System.Windows.Forms.ListBox]$ListBox,
+        [ValidateNotNull()]
+        [Parameter(Mandatory = $true)]
+        $Items,
+        [Parameter(Mandatory = $false)]
+        [string]$DisplayMember,
+        [switch]$Append
+    )
+    
+    if (-not $Append) {
+        $listBox.Items.Clear()
+    }
+    
+    if ($Items -is [System.Windows.Forms.ListBox+ObjectCollection]) {
+        $listBox.Items.AddRange($Items)
+    }
+    elseif ($Items -is [Array]) {
+        $listBox.BeginUpdate()
+        foreach ($obj in $Items) {
+            $listBox.Items.Add($obj)
+        }
+        $listBox.EndUpdate()
+    }
+    else {
+        $listBox.Items.Add($Items)
+    }
+    
+    $listBox.DisplayMember = $DisplayMember
+}
+
+# Easy access to the .net newline character
+$newline = [Environment]::NewLine
+# Easy Access to the path of the folder that the script is stored in
+$scriptPath = Split-Path -Parent $script:MyInvocation.MyCommand.Path -ErrorAction 'Stop'
+#endregion
+
+#region Config
+# Names of the folders for 32 and 64 bit printer drivers. These should be subfolders of $drivers.Path
+$driver64folder = "64bit"
+$driver32folder = "32bit"
+#
+$printersFile = Join-Path $scriptPath "Printers.xlsx"
+$printersFileTemp = Join-Path $env:TEMP "Printers.xlsx"
+#endregion
+
+$printerinstall_load = {
+    # Copy the printers file to the local disk as Excel is unable to load it from the network
+    Copy-Item $printersFile $printersFileTemp
+    # Load Excel sheets
+    [System.Collections.ArrayList]$global:printers = Import-XLSX -Path:$printersFileTemp `
+                                                                 -Sheet:1
+    [System.Collections.ArrayList]$global:drivers = Import-XLSX -Path:$printersFileTemp `
+                                                                -Sheet:2
+    # Remove the Temp File
+    Remove-Item $printersFileTemp
+    
+    # Create Printer name property for each printer based on Room, Department, Make, and Model and
+    # load names into listbox for easy selection
+    foreach ($printer in $global:printers) {
+        # Get index of current item in array
+        $index = [array]::IndexOf($global:printers, $printer)
+        # Build Printer Name
+        If (-not ([string]::IsNullOrEmpty($printer.Note))) {
+            $name = [string]::Format(
+                "[{0}] {1} - {2} {3} [{4}]",
+                $printer.Room,
+                $printer.Department,
+                $printer.Brand,
+                $printer.Model,
+                $printer.Note
+            )
+        }
+        Else {
+            $name = [string]::Format(
+            "[{0}] {1} - {2} {3}",
+            $printer.Room,
+            $printer.Department,
+            $printer.Brand,
+            $printer.Model
+            )
+        }
+        # Add Printer Name as new property of the correct object in the array
+        Add-Member -InputObject $global:printers[$index] -Type:'NoteProperty' -Name 'Name' -Value $name
+        # Load printers into listbox
+        Load-ListBox $printers_list $printer.Name -Append
+        #Write some Debug info
+        Write-Debug("Loaded Printer: $($printer.Name)")
+    }
+    
+    $output.Text = "Select Printers to install!"
+}
+
+$buttonInstall_Click = {
+    If (-not $printers_list.CheckedItems.Count -gt 0) {
+        $output.Text = "Please select at least one printer from the list on the right!"
+    }
+    Else {
+        $output.Text = ""
+        ForEach ($item in $printers_list.CheckedItems) {
+            $index = [array]::IndexOf($Printers.Name, $item)
+            $printer = $printers[$index]
+            $driver = $global:drivers | Where-Object { $_.'Friendly Name' -eq $printer.Driver }
+            
+            $output.Text += "Installing Printer " + $printer.Name + $newline
+                        
+            if ((Get-WmiObject Win32_OperatingSystem).OSArchitecture = '64-Bit') {
+                Write-Debug("Using 64bit Driver")
+                $Driver_Path = Join-Path $driver.Path $driver64folder
+            } Else {
+                Write-Debug("Using 32bit Driver")
+                $Driver_Path = Join-Path $driver.Path $driver32folder
+            }
+            If (-Not ([string]::IsNullOrEmpty($driver.'64bit INF'))) {
+                Write-Debug("Using 64bit INF")
+                $INF = $driver.'64bit INF'
+            } Else { $INF = $driver.INF }
+            
+            Write-Debug("Installing Driver `"$($driver.Name)`" from $INF in $Driver_Path")
+            InstallPrinterDriver -DriverName $driver.Name `
+                                 -DriverPath $Driver_Path `
+                                 -DriverInf "$Driver_Path\$INF" `
+                                 -ComputerName 'localhost'
+            
+            Write-Debug("Creating Printer Port `"$($printer.Name)`" with IP $($printer.IP) 
+            and PORT $($printer.Port)")
+            CreatePrinterPort -PrinterIP $printer.IP `
+                              -PrinterPort $printer.Port `
+                              -PrinterPortName $printer.Name `
+                              -ComputerName 'localhost'
+            
+            Write-Debug("Adding Printer `"$($printer.Name)`" with Port `"$($printer.Name)`" and Driver 
+            `"$($Driver.Name)`"")
+            CreatePrinter -PrinterCaption $printer.Name `
+                          -PrinterPortName $printer.Name `
+                          -DriverName $Driver.Name `
+                          -ComputerName 'localhost'
+            $output.Text += "Printer Installed!" + $newline*2
+        }
+    }
+}
+
+$buttonCancel_Click = {
+    $printerinstall.Close()
+}]]></Code>
+  <Mode>0</Mode>
+  <Assemblies>
+    <Assembly>System.Management.Automation, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35</Assembly>
+    <Assembly>mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</Assembly>
+    <Assembly>System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.DirectoryServices, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</Assembly>
+    <Assembly>System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.ServiceProcess, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</Assembly>
+  </Assemblies>
+</File>

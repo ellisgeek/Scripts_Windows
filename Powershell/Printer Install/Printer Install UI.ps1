@@ -130,7 +130,7 @@ function Call-Printer_Install_GUI_-_Excel_psf {
 	#----------------------------------------------
 	
 	#region Program Helper Functions
-	Import-Module \\ltc-cleveland\menu\Powershell\Modules\PSExcel
+	Import-Module .\PSExcel\PSExcel
 	
 	# The Following 3 Functions were written by Kris Powell and can be found at:
 	# http://www.adminarsenal.com/admin-arsenal-blog/how-to-add-printers-with-powershell

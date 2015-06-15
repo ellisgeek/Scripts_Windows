@@ -132,10 +132,7 @@ Elevate -Parameters $PSBoundParameters -Exit
 #endregion
 
 #region Program Helper Functions
-Import-Module Appx
-Import-Module PrintManagement
-Import-Module AppLocker
-Import-Module \\ltc-cleveland\menu\Powershell\Modules\PSExcel
+Import-Module Import-Module .\PSExcel\PSExcel
 
 # The Following 3 Functions were written by Kris Powell and can be found at:
 # http://www.adminarsenal.com/admin-arsenal-blog/how-to-add-printers-with-powershell

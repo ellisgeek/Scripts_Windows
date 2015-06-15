@@ -1,0 +1,3 @@
+[submodule "Powershell/Printer Install/PSExcel"]
+	path = Powershell/Printer Install/PSExcel
+	url = https://github.com/RamblingCookieMonster/PSExcel
